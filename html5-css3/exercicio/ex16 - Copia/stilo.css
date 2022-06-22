@@ -1,0 +1,21 @@
+table, td, th{border: solid blue; spacing: 100$; padding: 2px;}
+/* Color Theme Swatches in Hex */
+.ResUOLve---Princeton-Orange-1-hex { color: #FA8334; }
+.ResUOLve---Princeton-Orange-2-hex { color: #AD5113; }
+.ResUOLve---Princeton-Orange-3-hex { color: #FF954F; }
+.ResUOLve---Princeton-Orange-4-hex { color: #34EFFA; }
+.ResUOLve---Princeton-Orange-5-hex { color: #02A4AD; }
+
+/* Color Theme Swatches in RGBA */
+.ResUOLve---Princeton-Orange-1-rgba { color: rgba(250, 131, 52, 1); }
+.ResUOLve---Princeton-Orange-2-rgba { color: rgba(173, 81, 19, 1); }
+.ResUOLve---Princeton-Orange-3-rgba { color: rgba(255, 149, 79, 1); }
+.ResUOLve---Princeton-Orange-4-rgba { color: rgba(52, 239, 250, 1); }
+.ResUOLve---Princeton-Orange-5-rgba { color: rgba(2, 164, 173, 1); }
+
+/* Color Theme Swatches in HSLA */
+.ResUOLve---Princeton-Orange-1-hsla { color: hsla(23, 95, 59, 1); }
+.ResUOLve---Princeton-Orange-2-hsla { color: hsla(24, 80, 37, 1); }
+.ResUOLve---Princeton-Orange-3-hsla { color: hsla(23, 100, 65, 1); }
+.ResUOLve---Princeton-Orange-4-hsla { color: hsla(183, 95, 59, 1); }
+.ResUOLve---Princeton-Orange-5-hsla { color: hsla(183, 97, 34, 1); }

@@ -1,0 +1,35 @@
+/*
+em html é id = em css é # < so pode na mesma pagina>
+em html é class = css é .<pode varios na mesma pagina>
+*/
+body{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: green;
+}
+h2{
+   color: rgb(5, 65, 5); 
+}
+h1#principal{
+    text-align: center;
+    background-color: green;
+    color: white;
+    border: 3px solid;color: wheat;
+}
+.avancado{
+    color: #ff0000;
+    font-weight: bold;
+}
+.intermediario{
+    color:#2f4f4f;
+    font-weight: bold;
+}
+.basico{
+    color: #3308f3;
+    font-weight: bold;
+}
+.destaque{
+    background-color: #dbdb66;
+}
